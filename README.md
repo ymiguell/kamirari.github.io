@@ -29,7 +29,7 @@ Esses são meus comandos:<br>
  - `#fila` Mostra as músicas que estão na fila
  - `#volume <volume0a10>` Define o volume de acordo com o valor selecionado.
  
- ## Sociais
+## Sociais
  - `#user-info [@user]` Mostra o perfil do usuário mencionado.
  - `#avatar [@user]` Mostra o avatar do usuário mencionado.
  - `#level [@user]` Mostra o level e xp do usuário mencionado.
