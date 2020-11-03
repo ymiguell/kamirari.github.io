@@ -37,4 +37,26 @@ Esses são meus comandos:<br>
  - `#cookie <@user>` Divide um cookie com o usuário mencionado.
  - `#cookies [@user]` Mostra a quantidade de cookies do usuário mencionado.
  
+##  Diversão
+- `#8ball <pergunta>` Responde a pergunta do usuário.
+- `#changemymind <frase>` Exibe uma imagem do meme "changemymind".
+- `#ascii <frase>` Cria uma mensagem em ascii.
+- `#cachorro` Exibe a imagem de um catiorro.
+- `#dados` Joga um dado.
+- `#gato` Exibe uma imagem de gato.
+- `#cookies [@user]` Mostra a quantidade de cookies do usuário mencionado.
+- `#cookies [@user]` Mostra a quantidade de cookies do usuário mencionado.
+- `#coinflip` Joga moeda para cima.
+- `#random` Mostra aleatoriamente um número.
+- `#tapa <@user>` Da um tapa em um usuário.
+- `#beijar <@user>` Dá um beijo na pessoa escolhida com uma cena de anime de representação uau.
+- `#punch <@user>` Da um soco em um usuário.
+- `#casar <@user>` Casa com um usuário.
+- `#emoji <:emoji:>` Divide um cookie com algum usuário.
+- `#inverter <texto>` Inverte um texto.
+- `#meme` Exibe memes de determinados reddits.
+- `#morse <texto>` Coloca um texto em código morse.
+- `#shrug` Só o shrug mesmo.
+- `#trigger` Meme trigger como vc mesmo.
+ 
  
