@@ -58,5 +58,37 @@ Esses são meus comandos:<br>
 - `#morse <texto>` Coloca um texto em código morse.
 - `#shrug` Só o shrug mesmo.
 - `#trigger` Meme trigger como vc mesmo.
+
+##  Economia
+- `#comprar <@item>` Compra determinado item da loja.
+- `#diário` Coleta sua recompensa diária.
+- `#semanal` Coleta sua recompensa semanal.
+- `#mensal` Coleta sua recompensa mensal.
+- `inventario` Abre o seu inventário.
+- `#moedas [@user]` Mostra a quantidade de moedas do usuário mencionado.
+- `#loja` Abre a loja.
+- `#trabalhar` Trabalhe para ganhar mais moedas.
+- `#estudar` Estude para ganhar mais moedas.
+- `#addmoney <valor> <@user>` Adicione dinheiro ao usuário mencionado.
+- `#removemoney <valor> <@user>` Remova dinheiro do usuário mencionado.
+
+##  Minecraft
+- `#mchead <nick>` Exibe uma cabeça de minecraft.
+- `#mcskin <nick>` Exibe uma skin de minecraft.
+- `#mcstatus <servidor>` Exibe um servidor de minecraft.
+
+##  Staff
+- `#say <mensagem>` Faz com que KaminariBot escreva a sua mensagem.
+- `#ban <@user> [motivo]` Bane do servidor o usuário mencionado.
+- `#kick <@user> [motivo]` Kicka do servidor o usuário mencionado.
+- `#clear <númerodemensagens>` Limpa a quantidade de mensagens mencionadas.
+- `#antiraid <on/of>` Evita raids no servidor.
+- `#slowmode <segundos>` Ativa o modo lento de um determinado chat.
+- `#avisar <@user> <aviso>` Avisa um determinado usuário no privado.
+- `#avisos <@user>` Mostra a quantidades de avisos do usuário mencionado.
+- `#deleteavisos <@user>` Deleta todos os avisos de determinado usuário.
+- `#avisar <@user> <aviso>` (Manutenção) Avisa um determinado usuário no privado.
+
+
  
  
