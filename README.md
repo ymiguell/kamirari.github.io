@@ -1,6 +1,6 @@
 # KaminariBot
 
-Esses são meus comandos:
+Esses são meus comandos:<br>
 `<obrigatório> [opcional]`
 
 ## Úteis
@@ -8,7 +8,7 @@ Esses são meus comandos:
 - `#ajuda` Exibe o menu de ajuda.
 - `#ampliar <:emoji:>` Amplia um emoji.
 - `#botinfo` Exibe informações do bot.
-- `#hex <cor>` Descrição | `#hex 00FF00`
+- `#hex <cor>` Descrição - `#hex 00FF00`
 - `#timer <tempo>` Define um tempo para sua ultima mensagem.
 - `#serverinfo` Mostra status do servidor.
 - `#avatar [@user]` Mostra o avatar de um usuário ou do próprio usuário que usou o comando.
@@ -18,3 +18,4 @@ Esses são meus comandos:
 - `#votar` Mostra um url para ajudar KaminariBot.
 - `#covid <all> <país>` Mostra estatísticas do corona vírus em um determinado país.
 - `#calcular <cálculo>` Calcula o problema matemático.
+
