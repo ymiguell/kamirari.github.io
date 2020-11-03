@@ -27,7 +27,7 @@ Esses são meus comandos:<br>
  - `#search <música/video>` Mostra as primeiras 5 opções do tema relacionado
  - `#skip` Pula a música para a próxima da fila.
  - `#fila` Mostra as músicas que estão na fila
- - `#volume <volume0a10>` Define o volume de acordo com o valor selecionado.
+ - `#volume <0~10>` Define o volume de acordo com o valor selecionado.
  
 ## Sociais
  - `#user-info [@user]` Mostra o perfil do usuário mencionado.
